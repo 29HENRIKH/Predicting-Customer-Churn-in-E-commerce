@@ -1,4 +1,5 @@
-# This a project aimed at understanding consumer behaviour on an online commerce service
+# PREDICTING CUSTOMER CHURN IN E-COMMERCE
+# This a project aimed at understanding consumer behaviour on an E-ommerce service
 - Lets first define what consumer behaviour is
 - Consumer behaviour refers to the study of how individuals, groups, or organizations select, buy, use, and dispose of products, services, ideas, or experiences to satisfy their needs and wants.
 
@@ -18,11 +19,7 @@
 # Machine Learning Use Cases: 
 - Classification ; Predict if a user will churn (stop buying) or make a purchase 
 - Regression ; Estimate the amount a customer will spend next month 
-
-“Predicting Customer Churn in E-commerce” 
- Use purchase and browsing history to classify whether a customer is likely to stop buying. 
-
-
+ 
 # Target Users / Who benefits 
 - Marketing teams — To improve strategy with data-driven insights 
 - Brand managers — To monitor how people perceive their brand 
