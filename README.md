@@ -1,12 +1,11 @@
 # PREDICTING CUSTOMER CHURN IN E-COMMERCE
-# 📡 Churn Guard: A Predictive Model for Telecommunication Consumer Retention
+# Churn Guard: A Predictive Model for Telecommunication Consumer Retention
 
-### 🧠 Slogan:  
 **"Stay Ahead. Know Who Will Leave Before They Do."**
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Churn Guard** is a machine learning classification model built to **predict customer churn** in the **telecommunication industry**. Leveraging historical data and behavioral features, the model provides insights that help telecom providers identify at-risk customers **before they leave**.
 
@@ -14,7 +13,7 @@ By combining real-world data analytics with predictive modeling, **Churn Guard**
 
 ---
 
-## 📉 Real-World Motivation
+##  Real-World Motivation
 
 Numerous companies have suffered **massive losses** due to failing to analyze customer behavior:
 
@@ -22,33 +21,33 @@ Numerous companies have suffered **massive losses** due to failing to analyze cu
 - **MTN Nigeria** saw a **loss of 6 million subscribers in 2017**, citing poor customer satisfaction and market competition.
 - **BlackBerry**, once dominant in telecom hardware, lost market relevance due to ignoring behavioral trends and user experience needs.
 
-> 📊 Studies show it can cost **5–7 times more** to acquire a new customer than to retain an existing one.  
+> Studies show it can cost **5–7 times more** to acquire a new customer than to retain an existing one.  
 > Predictive churn modeling can improve retention by **up to 15–25%**, directly boosting profitability.
 
 ---
 
-## 🎯 Who Can Benefit from This Model?
+##  Who Can Benefit from This Model?
 
-- 📞 **Telecom Customer Experience Teams**  
-- 🧠 **Data Scientists & Analysts**  
-- 📈 **Marketing & Retention Teams**  
-- 🧑‍💼 **Product Managers**  
-- 🏢 **Telecommunication Executives & Stakeholders**
-
----
-
-## 🌟 Key Benefits of Churn Guard
-
-- 📌 **Predicts churn with high accuracy using historical customer behavior**
-- 🔄 **Improves customer retention strategies by proactively identifying at-risk users**
-- 💡 **Informs marketing and loyalty campaigns based on churn likelihood**
-- 📉 **Reduces customer acquisition costs by improving long-term loyalty**
-- 📊 **Provides insights into key behavioral drivers behind churn**
-- ⚙️ **Adaptable to other subscription-based businesses (e.g., SaaS, Internet services)**
+-  **Telecom Customer Experience Teams**  
+-  **Data Scientists & Analysts**  
+-  **Marketing & Retention Teams**  
+-  **Product Managers**  
+-  **Telecommunication Executives & Stakeholders**
 
 ---
 
-## 🧾 Key Features Used in This Project
+##  Key Benefits of Churn Guard
+
+-  **Predicts churn with high accuracy using historical customer behavior**
+-  **Improves customer retention strategies by proactively identifying at-risk users**
+-  **Informs marketing and loyalty campaigns based on churn likelihood**
+-  **Reduces customer acquisition costs by improving long-term loyalty**
+-  **Provides insights into key behavioral drivers behind churn**
+-  **Adaptable to other subscription-based businesses (e.g., SaaS, Internet services)**
+
+---
+
+##  Key Features Used in This Project
 
 Below are some of the features selected from the dataset and how they may affect customer churn:
 
@@ -65,18 +64,17 @@ Below are some of the features selected from the dataset and how they may affect
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
-- 🐍 Python
-- 📊 Pandas, NumPy
-- 🤖 Scikit-learn
-- 📈 Matplotlib & Seaborn (for visualization)
-- 📦 Streamlit (for dashboarding)
-- 🧪 Jupyter Notebooks
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib & Seaborn (for visualization)
+-  Streamlit (for dashboarding)
 
 ---
 
-## ✅ Model Type
+##  Model Type
 
 This is a **classification model** predicting whether a customer will:
 
@@ -94,15 +92,7 @@ Best-performing model selected based on accuracy, recall, and AUC scores.
 
 ---
 
-## 📂 Dataset
-
-- Dataset: [Telco Customer Churn - IBM Sample Dataset]
-- Total Samples: 7,043
-- Target Variable: `Churn`
-
 ---
-
-## 🧠 Final Thoughts
 
 Customer churn isn't just a number — it's a **warning sign**. With Churn Guard, telecom businesses can now:
 
