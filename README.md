@@ -78,15 +78,12 @@ Below are some of the features selected from the dataset and how they may affect
 
 This is a **classification model** predicting whether a customer will:
 
-- `Churn = Yes`
-- `Churn = No`
+- `1 = Yes`
+- `0 = No`
 
 Model types tested include:
 
 - Logistic Regression  
-- Decision Tree Classifier  
-- Random Forest  
-- Gradient Boosting  
 
 Best-performing model selected based on accuracy, recall, and AUC scores.
 
