@@ -178,7 +178,7 @@ import pickle
 import numpy as np
 
 # ✅ Load model
-model = pickle.load(open('C:/Users/Admin/Desktop/Projects/Predicting-Customer-Churn-in-E-commerce/model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 
 def main():
     st.set_page_config(page_title="Churn Guard", layout="centered")
